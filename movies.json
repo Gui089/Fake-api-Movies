@@ -1,64 +1,76 @@
-[
-  {
-    "Title": "Avatar",
-    "Year": "2009",
-    "Rated": "PG-13",
-    "Released": "18 Dec 2009",
-    "Runtime": "162 min",
-    "Genre": "Action, Adventure, Fantasy",
-    "Director": "James Cameron",
-    "Writer": "James Cameron",
-    "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
-    "Plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
-    "Language": "English, Spanish",
-    "Country": "United States",
-    "Awards": "Won 3 Oscars. 90 wins & 131 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "7.9/10" },
-      { "Source": "Rotten Tomatoes", "Value": "81%" },
-      { "Source": "Metacritic", "Value": "83/100" }
-    ],
-    "Metascore": "83",
-    "imdbRating": "7.9",
-    "imdbVotes": "1,366,907",
-    "imdbID": "tt0499549",
-    "Type": "movie",
-    "DVD": "10 Feb 2016",
-    "BoxOffice": "$785,221,649",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  },
-  {
-    "Title": "The Avengers",
-    "Year": "2012",
-    "Rated": "PG-13",
-    "Released": "04 May 2012",
-    "Runtime": "143 min",
-    "Genre": "Action, Sci-Fi",
-    "Director": "Joss Whedon",
-    "Writer": "Joss Whedon, Zak Penn",
-    "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
-    "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
-    "Language": "English, Russian",
-    "Country": "United States",
-    "Awards": "Nominated for 1 Oscar. 38 wins & 81 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "Ratings": [
-      { "Source": "Internet Movie Database", "Value": "8.0/10" },
-      { "Source": "Rotten Tomatoes", "Value": "91%" },
-      { "Source": "Metacritic", "Value": "69/100" }
-    ],
-    "Metascore": "69",
-    "imdbRating": "8.0",
-    "imdbVotes": "1,441,633",
-    "imdbID": "tt0848228",
-    "Type": "movie",
-    "DVD": "22 Jun 2014",
-    "BoxOffice": "$623,357,910",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-  }
-]
+{
+"Search": [
+{
+"Title": "Avatar",
+"Year": "2009",
+"imdbID": "tt0499549",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+},
+{
+"Title": "Avatar: The Way of Water",
+"Year": "2022",
+"imdbID": "tt1630029",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_SX300.jpg"
+},
+{
+"Title": "Avatar: The Last Airbender",
+"Year": "2005–2008",
+"imdbID": "tt0417299",
+"Type": "series",
+"Poster": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_SX300.jpg"
+},
+{
+"Title": "The King's Avatar",
+"Year": "2019",
+"imdbID": "tt10732794",
+"Type": "series",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMWU1NDdhNmUtYzk4Ni00MzgxLTk3MDUtMWNiNWQ3ODdhZjZiXkEyXkFqcGdeQXVyMjI2ODE1NTA@._V1_SX300.jpg"
+},
+{
+"Title": "The King's Avatar",
+"Year": "2017–",
+"imdbID": "tt6859260",
+"Type": "series",
+"Poster": "https://m.media-amazon.com/images/M/MV5BZjIyMjE5ZDYtMTQxNC00NTEzLTgwYzYtMmM0NDg3OWFlYWM5XkEyXkFqcGdeQXVyNjMxNzQ2NTQ@._V1_SX300.jpg"
+},
+{
+"Title": "Avatar: The Last Airbender - The Legend of Aang",
+"Year": "2006",
+"imdbID": "tt0959552",
+"Type": "game",
+"Poster": "https://m.media-amazon.com/images/M/MV5BNjUwNzA5Nzc4N15BMl5BanBnXkFtZTgwNjM1ODY4MDE@._V1_SX300.jpg"
+},
+{
+"Title": "Dasham Avatar",
+"Year": "2023",
+"imdbID": "tt27561990",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BYzE3NTNjNTgtY2MzOC00MDgwLTk0MjktNzVjNmQzMjc3YTQ3XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_SX300.jpg"
+},
+{
+"Title": "Avatar: The Game",
+"Year": "2009",
+"imdbID": "tt1517155",
+"Type": "game",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMTYxODI2OTI4MF5BMl5BanBnXkFtZTcwNjI1NzMwMw@@._V1_SX300.jpg"
+},
+{
+"Title": "Avatar: The Last Airbender - The Legend So Far",
+"Year": "2005",
+"imdbID": "tt1605838",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BZGQ1ZTNmNzItNGYyMC00MDk2LWJiZDAtZTkwZDFlNWJlYTVjXkEyXkFqcGdeQXVyODUxNDExNTg@._V1_SX300.jpg"
+},
+{
+"Title": "Avatar: The Deep Dive -- A Special Edition of 20/20",
+"Year": "2022",
+"imdbID": "tt24529122",
+"Type": "movie",
+"Poster": "https://m.media-amazon.com/images/M/MV5BOTNkMzNlNmQtMWRlYS00MTExLWExNjgtODc0MGRjNjE1OGQwXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_SX300.jpg"
+}
+],
+"totalResults": "108",
+"Response": "True"
+}
